@@ -37,7 +37,6 @@ We welcome PRs! You can:
 
 ## 💥 Built By
 **Sandesh Subedi** – Founder of Copyfield, Builder of Tools That Work  
-[copyfield.xyz](https://copyfield.xyz)
 
 ---
 
